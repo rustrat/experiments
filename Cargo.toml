@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "rre-pe",
+]
